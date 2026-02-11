@@ -10,5 +10,5 @@ Proceso RegistroUsuario
 	dobleEdad<- (edad * 2);
     resulLog<- (edad <> estado);
 	Escribir "El doble de la edad es: ", dobleEdad;
-    Escribir "¿La edad es diferente del estado?: ", resulLog;
+    Escribir "Â¿La edad es diferente del estado?: ", resulLog;
 FinProceso
