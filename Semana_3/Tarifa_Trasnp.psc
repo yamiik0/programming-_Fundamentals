@@ -4,7 +4,7 @@ Proceso sin_titulo
 	tarifaReg<-4500;
 	Escribir "Bienvenido a la terminal de transporte";
 	Escribir "Recuerde que la tarifa regular es de: $4.500";
-	Escribir "Indique a continuación su tipo de usuario:";
+	Escribir "Indique a continuaciÃ³n su tipo de usuario:";
 	Escribir "regular - estudiante - adulto mayor";
 	Leer usuarioPass;
 	Si usuarioPass = "estudiante" o usuarioPass = "adulto mayor" Entonces
@@ -14,6 +14,6 @@ Proceso sin_titulo
 			Escribir "Su tarifa es de $",tarifaReg;
 		FinSi
 FinProceso
-//Determinación de tarifa de transporte
-//La tarifa cambia según si el usuario es estudiante, 
-//adulto mayor o usuario regular, y además si el viaje se realiza en hora pico o hora valle.
+//DeterminaciÃ³n de tarifa de transporte
+//La tarifa cambia segÃºn si el usuario es estudiante, 
+//adulto mayor o usuario regular, y ademÃ¡s si el viaje se realiza en hora pico o hora valle.
