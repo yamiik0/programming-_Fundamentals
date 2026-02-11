@@ -7,7 +7,7 @@ Proceso sin_titulo
 		Escribir "Tiene sanciones disciplinarias?";
 		Leer sancionesDiciplinarias;
 		Si sancionesDiciplinarias = Falso Entonces
-			Escribir "Inicio de sesión exitoso";
+			Escribir "Inicio de sesiÃ³n exitoso";
 		SiNo
 			Escribir "Acceso denegado el estudiante tiene sanciones disciplinarias";
 		FinSi
