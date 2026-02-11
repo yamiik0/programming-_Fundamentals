@@ -11,7 +11,7 @@ Proceso sin_titulo
 		Si nivelDeuda < nivelLimite*0.40 Entonces
 			Escribir "Usted es apto para el credito, gracias por elegirnos";
 		SiNo
-			Escribir "Usted no cumple con el limite de endeudamiento espere a que un  funcionario le haga una revisión manual";
+			Escribir "Usted no cumple con el limite de endeudamiento espere a que un  funcionario le haga una revisiÃ³n manual";
 		FinSi
 	SiNo
 		Escribir "Usted no es apto para el credito, gracias por elegirnos";
