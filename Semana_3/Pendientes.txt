@@ -1,0 +1,26 @@
+12.	Validación de compra con tarjeta
+Una transacción se aprueba si el saldo disponible es suficiente y la tarjeta no está bloqueada, y además el monto no supera el límite diario.
+
+13.	Control de acceso por edad
+Un sistema clasifica a los usuarios como menor de edad, adulto o adulto mayor, y define qué contenidos puede visualizar cada uno.
+
+14.	Evaluación de estado de un pedido
+Un pedido puede estar en estado Pendiente, Enviado, Entregado o Cancelado, dependiendo de múltiples condiciones relacionadas con el pago y la logística.
+
+15.	Sistema de semáforo inteligente
+El semáforo cambia a rojo si hay peatones cruzando o si el flujo vehicular supera un umbral crítico, salvo que exista prioridad de emergencia.
+
+16.	Clasificación de resultados médicos
+Un paciente requiere atención prioritaria si su presión arterial está fuera de rango o su nivel de oxígeno es bajo, y además presenta síntomas adicionales.
+
+17.	Validación de inscripción a un curso
+Un estudiante puede inscribirse si cumple los prerrequisitos, hay cupos disponibles y no tiene conflictos de horario.
+
+18.	Sistema de control de inventario
+Un producto debe reabastecerse si su stock es menor al mínimo o si la demanda proyectada es alta, siempre que el proveedor esté activo.
+
+19.	Evaluación de acceso a un examen en línea
+El estudiante puede presentar el examen solo si está dentro del horario permitido, no ha intentado previamente y su conexión es estable.
+
+20.	Clasificación de prioridad de tickets de soporte
+Un ticket es de alta prioridad si el impacto es alto y la urgencia es crítica, o si el cliente pertenece a un plan premium.
