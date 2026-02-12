@@ -3,7 +3,6 @@ Proceso validacionCompra
 	Definir estadoBloq Como Logico;
 	Definir montoDiario Como Entero;
 	Escribir "Bienvenido al portal de transacciones del usuario";
-	Escribir "A continuaciÛn se va a validar su compra:";
 	Escribir "   RECUERDE QUE EL MONTO NO PUEDE SUPERAR $5.000.000 POR DIA!";
 	Escribir "De cuanto es el monto de su compra?";
 	Leer montoDiario;
@@ -26,5 +25,6 @@ Proceso validacionCompra
 		Escribir "Lo sentimos el monto supera el limite diario";
 	FinSi
 FinProceso
-//ValidaciÛn de compra con tarjeta
-//Una transacciÛn se aprueba si el saldo disponible es suficiente y la tarjeta no est· bloqueada, y adem·s el monto no supera el lÌmite diario.
+//Validaci√≥n de compra con tarjeta
+
+//Una transacci√≥n se aprueba si el saldo disponible es suficiente y la tarjeta no est√° bloqueada, y adem√°s el monto no supera el l√≠mite diario.
