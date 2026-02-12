@@ -6,7 +6,7 @@ Proceso sin_titulo
 	Leer ingresoMensual;
 	nivelLimite<- 50000000;
 	Si ingresoMensual  > 2000000 Entonces
-		Escribir "Su deuda con todas las entidades financieras con las que tenga creditos:";
+		Escribir "Cual es su deuda total con todas las entidades financieras con las que tenga creditos:";
 		Leer nivelDeuda;
 		Si nivelDeuda < nivelLimite*0.40 Entonces
 			Escribir "Usted es apto para el credito, gracias por elegirnos";
@@ -17,4 +17,5 @@ Proceso sin_titulo
 		Escribir "Usted no es apto para el credito, gracias por elegirnos";
 	FinSi	
 FinProceso
+
 
