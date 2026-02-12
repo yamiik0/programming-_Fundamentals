@@ -1,5 +1,4 @@
-12.	Validación de compra con tarjeta
-Una transacción se aprueba si el saldo disponible es suficiente y la tarjeta no está bloqueada, y además el monto no supera el límite diario.
+
 
 13.	Control de acceso por edad
 Un sistema clasifica a los usuarios como menor de edad, adulto o adulto mayor, y define qué contenidos puede visualizar cada uno.
@@ -24,3 +23,4 @@ El estudiante puede presentar el examen solo si está dentro del horario permiti
 
 20.	Clasificación de prioridad de tickets de soporte
 Un ticket es de alta prioridad si el impacto es alto y la urgencia es crítica, o si el cliente pertenece a un plan premium.
+
