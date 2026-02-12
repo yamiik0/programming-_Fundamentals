@@ -20,5 +20,5 @@ Proceso sin_titulo
 		Escribir "Lo sentimos no puede sacar este libro prestado";
 	FinSi
 FinProceso
-//Control de prÈstamos bibliotecarios Un libro puede prestarse si no est· reservado 
-//y el usuario no tiene multas pendientes ni ha superado el lÌmite de prÈstamos.
+//Control de pr√©stamos bibliotecarios Un libro puede prestarse si no est√° reservado 
+//y el usuario no tiene multas pendientes ni ha superado el l√≠mite de pr√©stamos.
